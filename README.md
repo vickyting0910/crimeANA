@@ -11,3 +11,5 @@ Yuan, M., & Nara, A. (accepted). Space-Time Analytics of Tracks for the Understa
 
 2. accuracy.py
 This code includes many accuracy assessment indices to evaluate crime prediction
+
+3. spec.py This code involves many feature selection methods, mainly using scikit learning package
