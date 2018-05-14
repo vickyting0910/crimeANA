@@ -9,3 +9,5 @@ Yuan, M., Nara, A., & Bothwell, J. (2014). Space-time representation and analyti
 
 Yuan, M., & Nara, A. (accepted). Space-Time Analytics of Tracks for the Understanding of Patterns of Life. In M.-P. Kwan, D. Richardson, D. Wang, & C. Zhou (Eds.), Space-Time Integration in Geography and GIScience: Research Frontiers in the US and China: Springer
 
+2. accuracy.py
+This code includes many accuracy assessment indices to evaluate crime prediction
