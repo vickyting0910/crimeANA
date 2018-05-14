@@ -13,3 +13,4 @@ Yuan, M., & Nara, A. (accepted). Space-Time Analytics of Tracks for the Understa
 This code includes many accuracy assessment indices to evaluate crime prediction
 
 3. spec.py This code involves many feature selection methods, mainly using scikit learning package
+4. explanation.py This code is to add the calculation of explanations for cross-decomposition methods
